@@ -10,4 +10,9 @@ This project is designed to serve as a learning resource for individuals interes
 
 Contact:
 For inquiries or discussions related to this tool, feel free to reach out on Discord:
-6ix9e
+dogwalker3
+
+# TO DO
+ - add more algorithms
+ - words list
+ - and more, feel free to suggest!
